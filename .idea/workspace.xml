@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e488052-d220-4309-8761-3f6844b83e1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Cardinal.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/knight/ATTACK 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/knight/ATTACK 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/knight/ATTACK 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/knight/DEATH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/knight/DEFEND.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/knight/HURT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/knight/IDLE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/knight/JUMP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/knight/RUN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/knight/WALK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Fase1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/music/Fase2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/start_window/startWindow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Bakckground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Enemy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Entity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/EntityFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.00000000000003" />
+      <entry key="S2" value="1.0004171151366448" />
+      <entry key="S5" value="1.0494981276460371" />
+      <entry key="S10" value="1.311301758325032" />
+      <entry key="S30" value="2.333083987615856" />
+      <entry key="S60" value="2.9865862902612443" />
+      <entry key="M2" value="3.4803010146949878" />
+      <entry key="M5" value="5.792298531515362" />
+      <entry key="M10" value="15.339888287956038" />
+      <entry key="M15" value="26.6833139218792" />
+      <entry key="M30" value="52.54491077731359" />
+      <entry key="H1" value="84.51118590261346" />
+      <entry key="H2" value="129.3573247650378" />
+      <entry key="H4" value="178.3334497174253" />
+      <entry key="D1" value="250.28388371090057" />
+      <entry key="W1" value="267.0478432235347" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.897206149691859E-109" />
+      <entry key="S5" value="3.8440746291938875E-44" />
+      <entry key="S10" value="1.9613047074520955E-22" />
+      <entry key="S30" value="6.259261830466812E-8" />
+      <entry key="S60" value="3.32187761495229E-4" />
+      <entry key="M2" value="0.033202912869943986" />
+      <entry key="M5" value="0.7666969032057699" />
+      <entry key="M10" value="2.7638772450245987" />
+      <entry key="M15" value="4.576214571024371" />
+      <entry key="M30" value="8.04277029697179" />
+      <entry key="H1" value="11.17130657716805" />
+      <entry key="H2" value="13.827912498089718" />
+      <entry key="H4" value="15.898331572698112" />
+      <entry key="D1" value="18.38154380702327" />
+      <entry key="W1" value="18.90863471630041" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8705505632961241" />
+      <entry key="MS500" value="0.9726549474123153" />
+      <entry key="S2" value="0.9935088860057094" />
+      <entry key="S5" value="1.0466874673900954" />
+      <entry key="S10" value="1.309732390622563" />
+      <entry key="S30" value="2.332280883109583" />
+      <entry key="S60" value="2.9864116350320944" />
+      <entry key="M2" value="3.5127008730905747" />
+      <entry key="M5" value="6.551256213727902" />
+      <entry key="M10" value="18.084075694896878" />
+      <entry key="M15" value="31.233857060972838" />
+      <entry key="M30" value="60.56060294186531" />
+      <entry key="H1" value="95.66139529584659" />
+      <entry key="H2" value="143.1708815959298" />
+      <entry key="H4" value="194.2229352765463" />
+      <entry key="D1" value="268.6635943467277" />
+      <entry key="W1" value="285.95620479578497" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3Erg4XhbmQ41RaaChRIVhg3zM4t" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Game.executor": "Run",
+    "Python.Menu.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/kegit/mark/projectgame/assets/Font",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kegit\mark\projectgame\assets\Font" />
+      <recent name="C:\Users\kegit\mark\projectgame\assets\music" />
+      <recent name="C:\Users\kegit\mark\projectgame\assets\start_window" />
+      <recent name="C:\Users\kegit\mark\projectgame\assets\knight" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kegit\mark\projectgame\code" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Menu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projectgame" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/Menu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projectgame" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Menu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e488052-d220-4309-8761-3f6844b83e1f" name="Changes" comment="" />
+      <created>1780941912761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780941912761</updated>
+      <workItem from="1780941914976" duration="1311000" />
+      <workItem from="1780943241120" duration="7089000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/projectgame$Game.coverage" NAME="Game Coverage Results" MODIFIED="1780945334735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/projectgame$main.coverage" NAME="main Coverage Results" MODIFIED="1780958524022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/projectgame$Menu.coverage" NAME="Menu Coverage Results" MODIFIED="1780946053833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+  </component>
+</project>

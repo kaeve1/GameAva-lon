@@ -1,5 +1,4 @@
-def printi(nome):
-    print(f"Ola, {nome}")
+from code.Game import Game
 
-printi("kevin")
-
+game = Game()
+game.run()

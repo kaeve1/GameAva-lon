@@ -1,0 +1,5 @@
+WIND_WIDHT = 576
+WIND_HEIGHT = 324
+
+MENU_OPTION = ("NEW GAME",
+               "EXIT")
